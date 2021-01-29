@@ -24,7 +24,7 @@ Envy is a very powerful psychological tendency and can make intelligent rational
 >You shall not covet your neighbor’s house; you shall not covet your neighbor’s wife, or male or female slave, or ox, or donkey, or anything that belongs to your neighbor.
 
 I believe that one of the root causes of envy is found in how the human mind conducts measurement. It is well known that it doesn't understand absolute values, all it knows is how to measure one thing relative to another. For example, a Yale study[^income] showed that when asked about wealth tax *50% of the public would prefer to earn less money as long as they earned as much or more than their neighbour*. With that in mind it's easy to see how stock bubbles trigger this psychological tendency and compel people to join in on the fun and not get left behind when their friends, neighbours and co-workers are getting rich. 
-{% include image.html url="/assets/img/Code_Of_Hammurabi.png" description="The Code of Hammurabi. Currently at the Louvre." width="50%"%}
+{% include image.html url="/assets/img/hammurabi.png" description="The Code of Hammurabi. Currently at the Louvre." width="50%"%}
 
 ### 3. Availability-Misweighing
 The brain always overweighs information that is easily available to it due to its evolutionary short-circuiting cognitive system. Back in prehistoric times this gave man an advantage when fleeing predators but I'm afraid it has the opposite effect on his stock picking abilities. In my opinion, social media and the internet in general have made this effect much stronger than in the past because of how information goes viral. The distribution of media seems to follow a power law where 10% of the content dominates 90% of the space on online media.    
