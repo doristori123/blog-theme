@@ -43,6 +43,7 @@ Now let's apply this to a stock bubble. The stock is detached from its fundament
 ### All in all...
 When numerous psychological factors like these five work in tandem it helps shine a light on why large irrational phenomenon occur so often in the real world. But knowing the cause doesn't help in predicting **when** and **where** these bubbles start nor when they finally pop. Even Sir Isaac Newton couldn't predict when the *South Sea Company* bubble popped and he ended up losing 20.000 pounds. That's a little under **6 million** in 2020 dollars to put that amount into perspective. After losing his savings Newton is credited to have said: 
 >I can calculate the motion of heavenly bodies but not the madness of people.
+
 and if Newton couldn't it is very likely that you and I can't. Denial of this statement would be a prime example of the *excessive self-regard* tendency. Remember that the only person that reliably makes money in bubbles is your broker. 
 
 As a parting thought I want to express that the intent of this blog post is purely selfish in nature. I have found with the help of Charlie that a good way to really pound some knowledge into your brain is to apply what you think you have learnt to current events. That is what I have tried my best to accurately do and it is almost surely riddled with mistakes. At the very least I hope that I, as well as you the reader, have slightly decreased our chances in the future of falling victim to the tricks of our own brains.
