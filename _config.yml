@@ -275,9 +275,10 @@ defaults:
       layout: single
       author_profile: true
       read_time: true
+      show_date: true
       comments: # true
       share: true
-      related: true
+      related: # true
   
   # _pages
   - scope:

@@ -27,18 +27,7 @@ layout: default
       {% unless page.header.overlay_color or page.header.overlay_image %}
         <header>
           {% if page.title %}<h1 id="page-title" class="page__title" itemprop="headline">{{ page.title | markdownify | remove: "<p>" | remove: "</p>" }}</h1>{% endif %}
-<<<<<<< HEAD
           {% include page__meta.html %}
-=======
-          <p class="page__meta">
-            {% if page.date %}
-            <i style="padding-right:0.5em" class="fas fa-fw fa-calendar-alt" aria-hidden="true"></i><time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%B %d, %Y" }}</time>
-            {% endif %}
-            {% if page.read_time %}
-            <i class="far fa-clock" aria-hidden="true"></i> {% include read-time.html %}
-            {% endif %}
-          </p>
->>>>>>> First post draft
         </header>
       {% endunless %}
 
@@ -61,10 +50,7 @@ layout: default
           <h4 class="page__meta-title">{{ site.data.ui-text[site.locale].meta_label }}</h4>
         {% endif %}
         {% include page__taxonomy.html %}
-<<<<<<< HEAD
         {% include page__date.html %}
-=======
->>>>>>> First post draft
       </footer>
 
       {% if page.share %}{% include social-share.html %}{% endif %}
