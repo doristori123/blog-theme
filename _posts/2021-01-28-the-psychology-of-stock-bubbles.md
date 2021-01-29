@@ -33,6 +33,8 @@ Evidently this overweighs bubble stocks that are heavily featured in the news. S
 
 ### 4. Overoptimism
 A healthy dose of optimism can be an advantage when dealing with the hardships faced in life. However, the human brain has a tendency to overweigh the odds that are in its favour. The result is the existence of things such as lottery tickets and the colorful casinos of Las Vegas. The reality is that such bets have a negative expected value. This means that if you play enough games you are guaranteed to lose money.  The house always wins.
+
+
 Stock bubbles have an intrinsic misleading marketing material that reinforces this overoptimism tendency. Buying into stock bubbles gets mixed in with the term 'investing' and the stock price graph makes it seem like the probability of a loss is practically zero.And since the perceived risk is so low people are willing to put in more capital. Ironically, it would help if people thought about buying into a stock bubble like buying a lottery ticket. It would set expectations right. Many people lose a significant amount of their savings in a stock bubble but I haven't heard of anyone going broke from buying lottery tickets. 
 
 
