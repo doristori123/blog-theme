@@ -1,4 +1,6 @@
 <figure class="image">
-    <img src="{{ include.url }}" alt="{{ include.description }}">
-    <figcaption style="text-align: center"><i>{{ include.description }}</i></figcaption>
+    <div style="width:100%">
+    <img src="{{ include.url }}" alt="{{ include.description }}" style="max-width:{{ include.width }}">
+    </div>
+    <figcaption><i>{{ include.description }}</i></figcaption>
   </figure>
