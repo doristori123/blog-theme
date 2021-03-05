@@ -3,6 +3,12 @@ title:  "How banks create money"
 og_image: "/assets/img/gme-chart.png"
 ---
 
+<!---
+Could be titled misconceptions on banking
+
+could add in the free banking era
+-->
+
 I tend to hear the following statement thrown around a lot:
 
 >Banks accept deposits and then loan them out and make a profit from the difference in interest"
@@ -23,10 +29,7 @@ Let's explore why that is. You can go home and spend the $20 dollar bill that wo
 
 It follows from this little toy example that credit is inherently built on **trust**. The clerk would never have issued the paper slip if he didn't trust that at some point you would pay for your groceries. For the credit to be functionally equivalent to money it needs other people to trust it as well. 
 
-Banks function in a very similar way as the clerk did in our example except they do it on a much larger scale and there's a widespread trust in the digital money they issue. The dollar amount in your chequing account stored on the bank's servers and ultimately displayed on your computer screen is in fact analogous (with a few caveats) to the paper slip in our grocery store example. 
-
-In fact the vast portion of the money supply is actually credit and not actual physical currency.
-
+Banks function in a very similar way as the clerk did in our example except they do it on a much larger scale and there's a widespread trust in the digital money they issue. The dollar amount in your chequing account stored on the bank's servers and ultimately displayed on your computer screen is in fact analogous (with a few caveats) to the paper slip in our grocery store example. This clears up another common misconception that *a bank deposit is equal to physical currency*.^[FDIC] In fact the vast portion of the money supply is actually credit and not actual physical currency.
 
 
 
@@ -41,12 +44,6 @@ Now let's say you buy a house for this new money. If the seller is using the sam
 However, if the seller is with a different bank gets a bit more complicated. The sellers bank needs to receive money so that it can mark up the seller's account. But sending a truck full of money to another bank whenever there is a transaction seems like a hassle. 
 
 What banks could do is that every bank would have an account at every other bank. However, it is obvious that this system doesn't scale very well. That's where the central bank comes in, as a bank for the banks. Each bank will hold reserves at the central bank and interbank settlements will happen by moving around or lending reserves between accounts at the central bank. 
-
-
-Link to creating your own currency and the free banking era. 
-
-Talk about trust. 
-
 
 
 ## How do we make sure banks don't create too much credit?
@@ -72,3 +69,5 @@ If you have any thoughts on this post shoot me a message on [Twitter](https://tw
 
 
 [^ironic]: It's a little bit ironic but at this time the bank owes you the loan that it credited to your account at the same time that you ultimately owe the bank back the loan. 
+
+[^FDIC]: For example, the governement insures bank deposits up to a certain limit through a program called FDIC in chequing accounts. However if you're over that limit and the bank goes bankrupt there is no guarantee that you'll get your money back. This is a fundamental difference between physical currency and bank deposit. The only functional equivalent of physical currency are central bank reserves and they are only available to banks. 
