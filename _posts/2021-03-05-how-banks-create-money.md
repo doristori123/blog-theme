@@ -29,11 +29,11 @@ But can banks then just create unlimited amounts of money? The short answer is *
 
 Imagine you go shopping at your neighbourhood grocery store. But when you go up to the aisle to pay for your groceries you realize you forgot your wallet at home. Let's say your groceries cost $20. The clerk, knowing you're a trustworthy person, writes on a piece of paper that you owe him $20 and you're off the hook till the next time you go to the grocery store. Poof! The clerk just created $20 dollars out of thin air. 
 
-Let's explore why that is. You can go home and spend the $20 dollar bill that would have been used to pay for groceries however you'd like. But the clerk's slip of paper also functions as money in a sense and that's the money that was created. In theory the clerk can go to your grandma and buy cookies for $20 worth and give her the paper slip. You now owe your grandma $20 dollars. The *new* $20 worth of **money** created by this system doesn't exit the money supply (the total amount of money in a system) until you pay up the debt and tear up the paper slip. 
+Let's explore why that is the case. You can go home and spend a $20 dollar bill that was supposed to be used for groceries however you'd like. But the clerk's slip of paper also functions as money in a sense and that is the money that was created. In theory the clerk can go to your grandma and buy cookies for $20 worth and give her the paper slip. You now owe your grandma $20 dollars. The *new* $20 worth of **money** created by this system doesn't exit the money supply (the total amount of money in a system) until you pay up the debt and tear up the paper slip. 
 
 It follows from this little toy example that credit is inherently built on **trust**. The clerk would never have issued the paper slip if he didn't trust that at some point you would pay for your groceries. For the credit to be functionally equivalent to money it needs other people to trust it as well. 
 
-Banks function in a very similar way as the clerk did in our example except they do it on a much larger scale and there's a widespread trust in the digital money they issue. The dollar amount in your chequing account stored on the bank's servers and ultimately displayed on your computer screen is in fact analogous (with a few caveats) to the paper slip in our grocery store example. This clears up another common misconception that *a bank deposit is equal to physical currency*.^[FDIC] In fact the vast portion of the money supply is actually credit and not actual physical currency.
+Banks function in a very similar way as the clerk did in our example except they do it on a much larger scale and there's a widespread trust in the digital money they issue. The dollar amount in your chequing account stored on the bank's servers and ultimately displayed on your computer screen is in fact analogous (with a few caveats) to the paper slip in our grocery store example. This clears up another common misconception that *a bank deposit is equal to physical currency*.[^FDIC] In fact the vast portion of the money supply is actually credit and not actual physical currency.
 
 
 
@@ -72,6 +72,6 @@ Secondly, the central bank is responsible for keeping tabs on the health of the 
 If you have any thoughts on this post shoot me a message on [Twitter](https://twitter.com/halldorb)!
 
 
-[^ironic]: It's a little bit ironic but at this time the bank owes you the loan that it credited to your account at the same time that you ultimately owe the bank back the loan. 
+[^ironic]: It's a little bit ironic but at this time the bank owes you the money that it credited to your account at the same time that you ultimately owe the bank back the loan. 
 
 [^FDIC]: For example, the governement insures bank deposits up to a certain limit through a program called FDIC in chequing accounts. However if you're over that limit and the bank goes bankrupt there is no guarantee that you'll get your money back. This is a fundamental difference between physical currency and bank deposit. The only functional equivalent of physical currency are central bank reserves and they are only available to banks. 
