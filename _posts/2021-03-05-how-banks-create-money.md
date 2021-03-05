@@ -11,15 +11,19 @@ could add in the free banking era
 
 I tend to hear the following statement thrown around a lot:
 
->Banks accept deposits and then loan them out and make a profit from the difference in interest"
+>Banks accept deposits and then loan them out and make a profit from the difference in interest
 
-This is a fundamental misunderstanding of of how banking really works. There's no law that says that deposits need to be at least equal to or greater than outstanding loans. Actually, up until last year the following was true for US banks over a certain size:
+This is a fundamental misunderstanding of of how banking really works. There's no law that says that deposits need to be at least equal to or greater than outstanding loans. Another recent misconception is that the amount of outstanding loans are a direct multiplier of deposits (frequently referred to as the *money multiplier*). For example the following statement comes from Yuval Noah Harari's *Sapiens*:
 
->A bank can loan out ten times its deposits. 
+>Banks are allowed to loan $10 for every dollar they actually possess, which means that 90 per cent of all the money in our bank accounts is not covered by actual coins and notes
 
-But as of 2020 the above statement is not true either for the United states since it has joined a host of other countries such as the UK, Sweden and Canada that have abolished the so-called **reserve requirement**. 
+But as of 2020 the above statement is false for the United States.  It has joined a host of other countries such as the UK, Sweden and Canada that have all abolished the so-called **reserve requirement**. 
 
-But where does that new money come from? Is it just created from thin air? Yes! It's called **credit** and it's much much more widespread than you'd think. 
+But can banks then just create unlimited amounts of money? The short answer is *no* but to give you the long answer we need to answer 
+
+>Where does new *money* come from?
+
+ Is it just created from thin air? Yes! It's called **credit** and it's much much more widespread than you'd think. 
 
 ## What is credit?
 
