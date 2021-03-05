@@ -19,7 +19,7 @@ This is a fundamental misunderstanding of of how banking really works. There's n
 
 But as of 2020 the above statement is false for the United States.  It has joined a host of other countries such as the UK, Sweden and Canada that have all abolished the so-called **reserve requirement**. 
 
-But can banks then just create unlimited amounts of money? The short answer is *no* but to give you the long answer we need to answer 
+But can banks then just create unlimited amounts of money? The short answer is *no* but to give you the long answer we need to answer the following:
 
 >Where does new *money* come from?
 
