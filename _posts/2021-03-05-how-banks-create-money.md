@@ -1,7 +1,12 @@
 ---
 title:  "How banks create money"
-visible: 1
+header:
+  og_image: /assets/img/bank_run.png
+excerpt: "A very common view on banking can be summarized by the following statement: Banks accept deposits from savers and then loan those deposits out to borrowers. This is a fundamental misunderstanding of how banking really works."
+hidden: true
 ---
+
+Feedback: https://docs.google.com/document/d/16ID9R76GACGJNBJwh9cZVKkjqcRsZI5cyUDTe6iWOEY/edit#
 
 A very common view on banking can be summarized by the following statement:
 
@@ -57,7 +62,7 @@ From this discussion we can see that are different tiers of credit. The tiers ha
 
 ## Summary 
 
-Even though we treat our deposits like physical currency it is important to remember that they are not. They are just a fancy gift card at the bank commonly referred to as credit and the bank can issue as many gift cards as it wants when creating loans. Sometimes the banks get a little too excited and issue too many such gift cards. This can result in the illusion that the deposit on the computer screen is equal to physical cash being lifted. But we shouldn't be surprised as these credit bubbles behave in a lot of similar ways as stock bubbles (see my earlier blog [post]({% post_url 2021-01-28-the-psychology-of-stock-bubbles %})). The stock and credit market are systems made by humans and are therefore bound by the laws of psychology. It follows that we shouldn't be surprised that they exhibit the same imperfection as human nature. 
+Even though we treat our deposits like physical currency it is important to remember that they are not. In a funny way they are just a fancy gift card at the bank commonly referred to as credit and the bank can issue as many gift cards as it wants when creating loans subject to some regulation. Sometimes the banks get a little too excited and issue too many such gift cards. Suddenly the illusion is lifted, the deposit on the computer screen is not equal to physical cash. But we shouldn't be surprised as these credit bubbles behave in a lot of similar ways as stock bubbles (see my earlier blog [post]({% post_url 2021-01-28-the-psychology-of-stock-bubbles %})). The stock and credit market are systems made by humans and are therefore bound by the laws of psychology. It follows that we shouldn't be surprised that they exhibit the same imperfections as human nature. 
 
  
 
