@@ -1,67 +1,65 @@
 ---
 title:  "How banks create money"
-og_image: "/assets/img/gme-chart.png"
+visible: 1
 ---
 
-<!---
-Could be titled misconceptions on banking
+A very common view on banking can be summarized by the following statement:
 
-could add in the free banking era
--->
+>Banks accept deposits from savers and then loan those deposits out to borrowers
 
-I tend to hear the following statement thrown around a lot:
-
->Banks accept deposits and then loan them out and make a profit from the difference in interest
-
-This is a fundamental misunderstanding of of how banking really works. There's no law that says that deposits need to be at least equal to or greater than outstanding loans. Another recent misconception is that the amount of outstanding loans are a direct multiplier of deposits (frequently referred to as the *money multiplier*). For example the following statement comes from Yuval Noah Harari's *Sapiens*:
-
->Banks are allowed to loan $10 for every dollar they actually possess, which means that 90 per cent of all the money in our bank accounts is not covered by actual coins and notes
-
-But as of 2020 the above statement is false for the United States.  It has joined a host of other countries such as the UK, Sweden and Canada that have all abolished the so-called **reserve requirement**. 
-
-But can banks then just create unlimited amounts of money? The short answer is *no* but to give you the long answer we need to answer the following:
-
->Where does new *money* come from?
-
- Is it just created from thin air? Yes! It's called **credit** and it's much much more widespread than you'd think. 
+This is a fundamental misunderstanding of how banking really works. There's no law that says that deposits need to be at least equal to or greater than outstanding loans. In fact, banks can loan out much more money than they have in deposits. Which leads us to the following question, *where does this **extra** money come from?*  Is it just created from thin air? The short answer is yes! It's called **credit** and it's much much more widespread than you'd think. 
 
 ## What is credit?
 
-Imagine you go shopping at your neighbourhood grocery store. But when you go up to the aisle to pay for your groceries you realize you forgot your wallet at home. Let's say your groceries cost $20. The clerk, knowing you're a trustworthy person, writes on a piece of paper that you owe him $20 and you're off the hook till the next time you go to the grocery store. Poof! The clerk just created $20 dollars out of thin air. 
+Imagine you go shopping at your neighbourhood grocery store. But when you go up to the aisle to pay for your groceries you realize you've forgotten your wallet at home. Let's say your groceries cost $20. The clerk, knowing you're a trustworthy person, writes on a slip of paper that you owe him $20. This is what we call credit, which is simply an *agreement between two parties on a payment for certain resources at a later date*. Note that this simultaneously creates **debt**, the store clerk gets the credit but you have a debt to pay it back. However, you're off the hook till the next time you go to the grocery store. Poof! The clerk just created $20 dollars out of thin air. 
 
-Let's explore why that is the case. You can go home and spend a $20 dollar bill that was supposed to be used for groceries however you'd like. But the clerk's slip of paper also functions as money in a sense and that is the money that was created. In theory the clerk can go to your grandma and buy cookies for $20 worth and give her the paper slip. You now owe your grandma $20 dollars. The *new* $20 worth of **money** created by this system doesn't exit the money supply (the total amount of money in a system) until you pay up the debt and tear up the paper slip. 
+Let's explore why that is the case. You can now go home and spend a $20 dollar bill that would have been used for groceries however you'd like. But the clerk's slip of paper also functions as money in a sense and this is precisely the money that was created. Who would have thought grocery store clerks had the power to create money!
 
-It follows from this little toy example that credit is inherently built on **trust**. The clerk would never have issued the paper slip if he didn't trust that at some point you would pay for your groceries. For the credit to be functionally equivalent to money it needs other people to trust it as well. 
+But how exactly does the slip of paper function as money? Let's take our example a little further. It just so happens that the store clerk is a big cookie aficionado and your grandma is the best baker in town. The clerk can now go to your grandma and buy cookies for $20 worth in exchange for the paper slip. You now owe your grandma the $20 dollars you owed the clerk. The *new* $20 worth of money created by this system doesn't exit the *money supply* (the total amount of money in the economy) until you pay up the debt and tear up the slip of paper. 
 
-Banks function in a very similar way as the clerk did in our example except they do it on a much larger scale and there's a widespread trust in the digital money they issue. The dollar amount in your chequing account stored on the bank's servers and ultimately displayed on your computer screen is in fact analogous (with a few caveats) to the paper slip in our grocery store example. This clears up another common misconception that *a bank deposit is equal to physical currency*.[^FDIC] In fact the vast portion of the money supply is actually credit and not actual physical currency.
+From this little toy example we can see that credit is inherently built on **trust**. The clerk would never have issued the paper slip if he didn't trust that at some point in the future you would pay for your groceries. And for the credit to be functionally equivalent to money it needs other people to trust it as well, not just your grandma. 
 
-
-
-## What happens when a bank creates credit?
-
-Let's walk through an example of how credit gets created via the banking system. When a bank makes a loan it simply credits your account with the loan amount. That money didn't exist before your bank account was updated with the new amount.  Phew! That was easy!
-
-With respect to accounting the bank now has a new asset on its balance sheet, the loan, and a liability which is the deposit in your bank account[^ironic]. 
-
-Now let's say you buy a house for this new money. If the seller is using the same bank it´s simply a matter of a few clicks on the computer and magically your account is debited and the sellers account is credited. 
-
-However, if the seller is with a different bank gets a bit more complicated. The sellers bank needs to receive money so that it can mark up the seller's account. But sending a truck full of money to another bank whenever there is a transaction seems like a hassle. 
-
-What banks could do is that every bank would have an account at every other bank. However, it is obvious that this system doesn't scale very well. That's where the central bank comes in, as a bank for the banks. Each bank will hold reserves at the central bank and interbank settlements will happen by moving around or lending reserves between accounts at the central bank. 
+Banks function in a very similar way as the clerk did in our example except they do it on a much larger scale and there's widespread trust in the credit they issue. In fact most of what we normally call money in the economy is indeed credit and a tiny minority is cash, i.e.physical coins and bills. 
 
 
-## How do we make sure banks don't create too much credit?
+## What's the difference between credit and money?
 
-So in the beginning of this blog post we noted that there's no reserve requirements on banks in numerous countries including the US as of today. Then what is stopping banks from creating an infinite amount of credit? And if there isn't surely that must be bad for society?
+The difference between the terms such as credit, money and cash is blurry. In everyday life credit such as bank deposits is functionally equivalent to cash but there are important distinctions. 
 
-Yes, too much credit is bad because too much money in circulation with respect to the goods and service produced in an economoy will cause inflation. So how do we prevent this from happening? 
+It is helpful to think about bank deposits as being denominated in different currency that is pegged to a national currency such as the U.S. dollar one-to-one.[^banktrust] Let's say that you are a customer of Bank of America (BAC). This means that when you go to the ATM to withdraw cash what you're really saying is:
 
-The answer is twofold. First, banks are businesses and therefore their objective is to be profitable. The pool of borrowers that are likely to pay back their loans is limited and therefore the amount of potential profitable loans is limited as well. Banks need to make sure they stay solvent in the case that that they'll start to have net outflows to other banks draining their reserves.
 
-Secondly, the central bank is responsible for keeping tabs on the health of the economy i.e. measuring the money supply and inflation. They impose regulation on the banks in the form of *capital requirements* which dictate how much risk a bank can carry on it's balance sheet. The central bank also has tools to affect the profitability of banks through influencing interest rates and a more heavy handed process called qunatitative easing. Diving into central bank policies is a material for another blog post but you can see that these policies ultimately dictate lending in the economy since they directly influence the profitability of the banks. 
+*I'm going to exchange x BAC dollars for x U.S. dollars*
+
+
+And voilà, you've now converted BAC dollars from the chequing account stored on a computer server to physical slips of paper called U.S. dollars. This seems like a lot of mental gymnastics but bear with me.
+
+Now, back to our question. *Is there a difference between the BAC dollar (credit) and a U.S. dollar?*
+
+
+**Yes, there is!** When you went to the ATM to withdraw cash Bank of America had to scramble to find those U.S. dollars to give to you. Remember, credit is a promise for a payment in the future. When you originally deposited U.S. dollars into your chequing account credit was created with a promise to pay you back your original U.S. dollars in the future. The credit was the BAC dollar amount displayed in your bank account. Meanwhile Bank of America is free to use your physical U.S. dollar however it wants. It can buy assets such as a building for a new branch or the hottest new tech stock. It could also store the bills in a vault or put them in an ATM.
+
+*But what happens if Bank of America doesn't have enough bills when the time comes for your ATM withdrawal?*
+
+
+It must  sell some of its assets, like stocks, for U.S. dollars. This process is called **liquidation**. If the bank doesn't have enough assets or the assets turn out to be very *illiquid*, i.e. hard to convert to cash, the bank runs the risk of defaulting on its obligations to you and becoming *insolvent*. And you might not get all of the money you deposited back from the bankruptcy process. This is called *liquidity risk* and it's one of the reasons banks cannot create an infinite amount of loans. When a bank defaults it violates our one-to-one assumption of BAC dollars to U.S. dollars and we can finally see why they are not perfectly equivalent. 
+
+Any time the bank is forced to convert its own currency to U.S. dollars it has to find those U.S. dollars somewhere. This can happen when people transfer money to a different bank, ATM withdrawals, anything that takes money out of the world of that bank. Keeping this much cash on hand is costly since it doesn't pay any interest[^centralbank] so banks invest in long term assets such as stocks and bonds. The bank doesn't want to be forced to sell those assets at an unfortunate time. In fact, massive selling could cause the value of those assets to plummet even further. This is why banks come up with ATM withdrawal limits, withdrawal fees, accounts with less flexibility to withdraw, like savings accounts, all to incentivize customers to refrain from forcing the bank to convert its made-up currency into the national one.  
+
+Insolvencies used to happen very frequently in the past and they are a long way from being extinct. A recent example is the British bank *Northern Rock* in 2009. The bank defaulted during the financial crisis and a lot of people lost most of their deposits. When people sense a bank is at a risk of becoming insolvent they will rush to withdraw their deposits. This is frequently referred to as a **bank run**[^fdic]. The psychological herd mentality fuelling bank runs ironically increases the chances of the bank becoming insolvent. The bank might not be able to sell its assets for a good enough price all at once so the crowd's fear of insolvency becomes a self-fulfilling prophecy. 
+
+{% include image.html url="/assets/img/bank_run.png" description="To the left: Run on San Antonio’s City-Central Bank during the Great Depression in 1931. To the right: A modern day bank run on Northern Rock in 2009." %}
+
+From this discussion we can see that are different tiers of credit. The tiers have different levels of trust. For example a Walmart gift card has more risk than a bank deposit which again has more risk than a U.S. dollar. In fact the U.S. dollar can be viewed as credit for goods and services in the economy. It is a promise that at a later date you can exchange it for a resource you need.[^theoryofmoney] And to force my own unwieldy definition of the word *money*:
+
+> *Money* is a term that can be used for a set of credits that have a minimum level of trust that are used for transactions in the economy. 
+
+
+## Summary 
+
+Even though we treat our deposits like physical currency it is important to remember that they are not. They are just a fancy gift card at the bank commonly referred to as credit and the bank can issue as many gift cards as it wants when creating loans. Sometimes the banks get a little too excited and issue too many such gift cards. This can result in the illusion that the deposit on the computer screen is equal to physical cash being lifted. But we shouldn't be surprised as these credit bubbles behave in a lot of similar ways as stock bubbles (see my earlier blog [post]({% post_url 2021-01-28-the-psychology-of-stock-bubbles %})). The stock and credit market are systems made by humans and are therefore bound by the laws of psychology. It follows that we shouldn't be surprised that they exhibit the same imperfection as human nature. 
+
  
-
-
 
 
 ### Further reading / listening
@@ -72,6 +70,14 @@ Secondly, the central bank is responsible for keeping tabs on the health of the 
 If you have any thoughts on this post shoot me a message on [Twitter](https://twitter.com/halldorb)!
 
 
-[^ironic]: It's a little bit ironic but at this time the bank owes you the money that it credited to your account at the same time that you ultimately owe the bank back the loan. 
+[^banktrust]: In the past this was exactly how banks issued credit. They printed their own bank notes, e.g. a Bank of America bill. This had a lot of problems including the bank notes with the same face value being valued differently depending on the risk of a particular bank defaulting. A hypothetical example: Bank of America note might be valued at 90 cents on the dollar while a Bank of New Hampshire note might be valued at only 80 cents on the dollar. 
 
-[^FDIC]: For example, the governement insures bank deposits up to a certain limit through a program called FDIC in chequing accounts. However if you're over that limit and the bank goes bankrupt there is no guarantee that you'll get your money back. This is a fundamental difference between physical currency and bank deposit. The only functional equivalent of physical currency are central bank reserves and they are only available to banks. 
+
+[^centralbank]: Banks do earn some interest on U.S. dollars they store at the central bank. These dollars are called reserves and they are the only real digital version of the U.S. dollar. The reserves primarily serve the purpose of facilitating transactions between different banks and allowing them to withdraw cash when in need. They also allow the central bank to influence the interest rates in the economy by controlling the interest rate on the reserves. Interestingly in some places in Europe the interest rate on reserves is negative so that banks are better off keeping their reserves in cash in vaults which carries some negative interest through storage and security costs. 
+
+
+[^fdic]: Bank runs are partly solved with the government insuring deposits up to a certain amount. For example, the U.S. governement insures bank deposits up to a $250,000 (as of 2021) through a program called FDIC (Federal Deposit Insurance Corporation) in chequing accounts. However if you're over that limit and the bank goes bankrupt there is no guarantee that you'll get your money back. This is a fundamental difference between physical currency and a bank deposit. 
+
+[^theoryofmoney]: The theory that all money is in fact credit is called the credit theory of money and has origins back to Plato. The proponents of this theory stipulate that all money creation is in fact a creation of credit and debt. See [The Credit Theory of Money](https://www.modernmoneynetwork.org/sites/default/files/biblio/the_credit_theory_of_money.pdf) by Alfred Mitchell-Innes. 
+
+
