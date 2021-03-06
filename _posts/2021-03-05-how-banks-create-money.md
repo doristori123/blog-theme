@@ -16,7 +16,7 @@ This is a fundamental misunderstanding of how banking really works. There's no l
 
 ## What is credit?
 
-Imagine you go shopping at your neighbourhood grocery store. But when you go up to the aisle to pay for your groceries you realize you've forgotten your wallet at home. Let's say your groceries cost $20. The clerk, knowing you're a trustworthy person, writes on a slip of paper that you owe him $20. This is what we call credit, which is simply an *agreement between two parties on a payment for certain resources at a later date*. Note that this simultaneously creates **debt**, the store clerk gets the credit but you have a debt to pay it back. However, you're off the hook till the next time you go to the grocery store. Poof! The clerk just created $20 dollars out of thin air. 
+Imagine you go shopping at your neighbourhood grocery store. But when you go up to the aisle to pay for your groceries you realize you've forgotten your wallet at home. Let's say your groceries cost $20. The clerk, knowing you're a trustworthy person, writes on a slip of paper that you owe him $20.However, you're off the hook till the next time you go to the grocery store. Poof! The clerk just created $20 dollars out of thin air. 
 
 Let's explore why that is the case. You can now go home and spend a $20 dollar bill that would have been used for groceries however you'd like. But the clerk's slip of paper also functions as money in a sense and this is precisely the money that was created. Who would have thought grocery store clerks had the power to create money!
 
@@ -24,7 +24,9 @@ But how exactly does the slip of paper function as money? Let's take our example
 
 From this little toy example we can see that credit is inherently built on **trust**. The clerk would never have issued the paper slip if he didn't trust that at some point in the future you would pay for your groceries. And for the credit to be functionally equivalent to money it needs other people to trust it as well, not just your grandma. 
 
-Banks function in a very similar way as the clerk did in our example except they do it on a much larger scale and there's widespread trust in the credit they issue. In fact most of what we normally call money in the economy is indeed credit and a tiny minority is cash, i.e.physical coins and bills. 
+Now for the definition: The paper slip is what we call credit, which is simply an *agreement between two parties on a payment for certain resources at a later date*. Note that this simultaneously creates **debt**, the store clerk gets the credit but you have a debt to pay it back. 
+
+Banks function in a very similar way as the clerk did in our example except they do it on a much larger scale and there's widespread trust in the credit they issue. In fact most of what we normally call money in the economy is indeed credit and a tiny minority is cash, i.e. physical coins and bills. 
 
 
 ## What's the difference between credit and money?
@@ -62,7 +64,7 @@ From this discussion we can see that are different tiers of credit. The tiers ha
 
 ## Summary 
 
-Even though we treat our deposits like physical currency it is important to remember that they are not. In a funny way they are just a fancy gift card at the bank commonly referred to as credit and the bank can issue as many gift cards as it wants when creating loans subject to some regulation. Sometimes the banks get a little too excited and issue too many such gift cards. Suddenly the illusion is lifted, the deposit on the computer screen is not equal to physical cash. But we shouldn't be surprised as these credit bubbles behave in a lot of similar ways as stock bubbles (see my earlier blog [post]({% post_url 2021-01-28-the-psychology-of-stock-bubbles %})). The stock and credit market are systems made by humans and are therefore bound by the laws of psychology. It follows that we shouldn't be surprised that they exhibit the same imperfections as human nature. 
+Even though we treat our deposits like cash it is important to remember that they are not. We've learned that it is helpful to think of it as it's own currency that is pegged to whatever national currency the account is denominated in. The bank can issue as much of this currency as it wants when creating loans subject to some regulation. Sometimes the banks get a little too excited and issues too much, at that point the illusion is lifted. The deposit on the computer screen is not equal to physical cash. But we shouldn't be surprised as these credit bubbles behave in a lot of similar ways as stock bubbles (see my earlier blog [post]({% post_url 2021-01-28-the-psychology-of-stock-bubbles %})). The stock and credit markets are systems controlled by the whims of humans and are therefore bound by the laws of psychology. It follows that we shouldn't be surprised that they exhibit the same imperfections as human nature with all its heighs and lows. 
 
  
 
