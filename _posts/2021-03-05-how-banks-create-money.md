@@ -55,7 +55,7 @@ And voilà, you've now converted BAC dollars from the chequing account stored on
 {% include image.html url="/assets/img/bank_note.png" description="A bank note issued by the Bank of North Carolina in 1859. This bank note is somewhat analogous to an online bank deposit today." width="70%" %}
 
 
-When you went to the ATM to withdraw cash, the Bank of America had to find those U.S. dollars to give to you. Remember, *credit is a promise for a payment in the future*. When you originally deposited U.S. dollars into your chequing account, credit was created with a promise to pay you back your original U.S. dollars in the future. The credit was the BAC dollar amount displayed in your bank account. However this didn't create new money since Bank of America still had your U.S. dollars in its vault. However, Bank of America is free to **create** new money by making loans to borrowers. Creating loans means issuing more BAC dollars as bank deposits. And the bank deposits can quickly grow much larger than the cash in the bank's vault. 
+When you went to the ATM to withdraw cash, the Bank of America had to find those U.S. dollars to give to you. Remember, *credit is a promise for a payment in the future*. When you originally deposited U.S. dollars into your chequing account, credit was created with a promise to pay you back your original U.S. dollars in the future. The credit was the BAC dollar amount displayed in your bank account. However this didn't create new money since Bank of America still had your U.S. dollars in its vault. Meanwhile, Bank of America is free to **create** new money by making loans to borrowers. Creating loans means issuing more BAC dollars as bank deposits. And the bank deposits can quickly grow much larger than the cash in the bank's vault. 
 
 
 
@@ -89,8 +89,6 @@ If you have any thoughts or comments on this post shoot me a message on [Twitter
 * [How the Economic Machine works by Ray Dalio (video)](https://www.youtube.com/watch?v=PHe0bXAIuk0)
 
 
-
-[^poll]: [https://positivemoney.org/2017/10/mp-poll/](https://positivemoney.org/2017/10/mp-poll/)
 
 [^banktrust]: In the past this was exactly how banks issued credit. They printed their own bank notes, e.g. a Bank of America bill. This had a lot of problems including the bank notes with the same face value being valued differently depending on the risk of a particular bank defaulting. A hypothetical example: Bank of America note might be valued at 90 cents on the dollar while a Bank of New Hampshire note might be valued at only 80 cents on the dollar. 
 
